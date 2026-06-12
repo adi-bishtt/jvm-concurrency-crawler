@@ -1,0 +1,17 @@
+# Compiled Java Bytecode
+*.class
+
+# Log files
+*.log
+
+# Package Files (if any get generated)
+*.jar
+*.war
+
+# VS Code environment tracking configurations
+.vscode/
+*.code-workspace
+
+# Operating System temporary layout caches
+.DS_Store
+Thumbs.db
