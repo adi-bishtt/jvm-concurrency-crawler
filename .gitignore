@@ -15,3 +15,5 @@
 # Operating System temporary layout caches
 .DS_Store
 Thumbs.db
+
+.idea/
